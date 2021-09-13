@@ -1,12 +1,11 @@
 ### About
 
-Dapp University Simple Blockchain Raffle Ticket Lottery Decentralized Application to run raffles that makes
-use of Verifiable Random Function (VRF) from Chainlink for reliable fair random numbers. A single ticket is chosen as the 
-winner and receives all the funds in the pool at the end of the raffle/lottery. 
+PSB Advanced Technology: FutureSELF Lotto Raffle, Dapp (decentralized application) to run raffles that makes
+use of Verifiable Random Function (VRF) from Chainlink for reliable fair random numbers. Winner is chose by a single ticket, and all the funds in the pool of the raffle is then awarded to the ticker holder.
 
-Anyone who has been a particiapant in lottery can be able to complete the raffle for a fee, so winner can be paid and raffle resets to allo new one to start play; this avoids the need to have an admin which can be a central point of failure, control, abuse, censorship, manipulation etc. Deployer can earn a percentage fee from the dapp as long as it runs.Blockchain Lotteries ensure fairness, transparency, censorship resistance and more. 
+To make sure that this meets decentralization "requirements" it is setup where all participants of the raffle is able to pay by covering the fee. The raffle will reset after a winner is paid out, therefore, generating the start to a new game. This helps to avoid anyone being an admin or central point of contact, control, failure, abuse, and manipulation. As long as the Dapp runs, the deployer can earn a % fee. This setup will allow for lotto raffle transparency, fairness and consistency. 
 
-Project is for learning and exploration purposes so better UI, and or logic can be created or extended.
+Project UI needs to be worked on and completed before submission.
 
 [Read more about getting random number from Chainlink here](https://docs.chain.link/docs/get-a-random-number/)
 
